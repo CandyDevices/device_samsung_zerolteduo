@@ -16,6 +16,7 @@
 
 add_lunch_combo aokp_zerolteduo-userdebug
 add_lunch_combo aosp_zerolteduo-userdebug
+add_lunch_combo candy_zerolteduo-userdebug
 add_lunch_combo gzosp_zerolteduo-userdebug
 add_lunch_combo lineage_zerolteduo-userdebug
 add_lunch_combo nexus_zerolteduo-userdebug
